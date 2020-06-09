@@ -1,1 +1,1 @@
-# Berikut adalah code untuk pembelajaran bahasa pemrograman java
+# Berikut adalah file code untuk pembelajaran bahasa pemrograman java
