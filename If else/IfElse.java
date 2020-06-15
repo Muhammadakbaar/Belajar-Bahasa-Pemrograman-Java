@@ -1,9 +1,9 @@
 public class IfElse{
     public static void main(String [] args){
-        int a = 5;
-        if(a==5){
+        int a = 6;
+        if(a < 5){
             System.out.print("Benar");
-        }else{
+        }else if ( a > 5){
             System.out.println("Salah");
         }
     }
