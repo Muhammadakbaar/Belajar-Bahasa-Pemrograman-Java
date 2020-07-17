@@ -19,5 +19,11 @@ public class Main {
         int angka3 = 10;
         angka3--;
         System.out.println("nilai dengan '++' menjadi = " + angka3);
+
+        int a = 5;
+        System.out.printf("nilai dengan '++' prefix menjadi = %d\n" ,++a);
+        int b =5;
+        System.out.printf("nilai dengan '++' prefix menjadi = %d\n", b++);
+        System.out.printf("nilai hasil dari prefix menjadi = %d\n", b);
     }
 }
