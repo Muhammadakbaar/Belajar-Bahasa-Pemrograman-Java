@@ -7,6 +7,6 @@ public class Main {
         // ini adalah program untuk operator unary
 
         int angka = 1;
-        System.out.println(-angka);
+        System.out.printf("unary '-', %d menjadi %d \n",angka,-angka);
     }
 }
