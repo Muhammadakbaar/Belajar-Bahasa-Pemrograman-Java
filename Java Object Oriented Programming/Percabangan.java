@@ -1,14 +1,16 @@
+import java.util.Scanner;
 
 public class Percabangan {
     
     public static void main(String[] args) {
-        
-        int a;
-        a = 10;
 
-        if (a == 5){
+        Scanner input = new Scanner(System.in);
+        
+        System.out.print("Masukan Angka = ");
+        int a = input.nextInt();
+        if (a <= 5){
             for (int i = 0; i < 5; i++){
-                System.out.println("Nialai a = " + a);
+                System.out.println(i);
             }
         }
         else if (a == 10){
