@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="17ff0e85-fb06-4eba-8f14-f2a441129acb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Java Object Oriented Programming/Bintang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Object Oriented Programming/Bintang.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Object Oriented Programming/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Object Oriented Programming/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Object Oriented Programming/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Object Oriented Programming/MainApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Object Oriented Programming/MainApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Object Oriented Programming/Operator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Object Oriented Programming/OperatorPenugasan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Object Oriented Programming/OperatorPerbandingan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Object Oriented Programming/OperatorPerbandingan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Object Oriented Programming/Percabangan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Object Oriented Programming/Percabangan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Object Oriented Programming/Perulangan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Object Oriented Programming/Perulangan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Object Oriented Programming/PerulanganForEach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Object Oriented Programming/PerulanganForEach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Object Oriented Programming/PerulanganWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Object Oriented Programming/SwitchCase.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1oRL0KOGZUNSLqUwpw4URRTzVVx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.catalog" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="oop" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="oop" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17ff0e85-fb06-4eba-8f14-f2a441129acb" name="Default Changelist" comment="" />
+      <created>1613244234953</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613244234953</updated>
+      <workItem from="1613244238323" duration="189000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
