@@ -13,6 +13,8 @@ public class Main {
         Akbar.sayHi();
         akbar.fungsi();
 
+        akbar.nama(" Akbar");
+
 
     }
 }

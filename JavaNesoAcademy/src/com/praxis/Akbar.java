@@ -8,6 +8,9 @@ public class Akbar {
 
     public void fungsi(){
         System.out.println("Ini fungsi tanpa static void");
+    }
+    public void nama(String nama){
+        System.out.println("nama saya adalah" + nama);
 
     }
 }
